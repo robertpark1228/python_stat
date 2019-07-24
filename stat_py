@@ -1,0 +1,11 @@
+http://www.statedu.com/QnA/79573
+https://ko.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-dependent-independent/a/dependent-and-independent-variables-review
+
+1. Bivariate 는 변수가 2개라는 뜻입니다. 그중에서도 주로 대등한 변수가 2개 있을 때 사용하는 용어입니다. 대표적인 예가 상관분석입니다. 상관분석은 두 변수 사이의 관계를 규명하는 분석이죠.
+
+2. Univariate 는 변수가 여러개라는 뜻입니다. 그 중에서도 독립변수를 말합니다. 즉, 독립변수가 여러 개인 경우의 분석 기법일 때에 univaite 라는 말을 사용하게 됩니다. 
+
+3. Multivariate 도 역시 변수가 여러개라는 뜻입니다. 그러나, univariate 와 차이점은 종속변수가 여러개라는 것입니다. 이때 독립변수는 하나여도 상관이 없고 여러개 이어도 상관이 없습니다. 단지, 종속변수만 하나가 아니라 2개 이상인 경우에 쓰이는 말이죠.
+
+Univariate Descriptive Statistics #다변수
+Multivariate 
